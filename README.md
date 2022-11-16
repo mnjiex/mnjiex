@@ -3,7 +3,8 @@
 #### About
 ##### Hi there 👋
 
-My name is Muhammed Njie. I am studying to fully transition into to a Data Analyst. I have held positions which are field adjacent while working in quality assurance and also in fintech.This repository is created to show skills, share projects and track my progress in Data Analytics / Data Science related topics.
+My name is Muhammed Njie. I am studying to fully transition into to a Data Analyst. I have held positions which are field adjacent while working in quality assurance and also in fintech.
+This repository is created to show skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 #### My Portfolio
 
