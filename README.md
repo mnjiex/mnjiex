@@ -37,6 +37,6 @@ Here projects are listed, briefly described along with the technology used
 **Description:** The Behavioral Risk Factor Surveillance System (BRFSS) is a collaborative project between all of the states in
 the United States (US) and participating US territories and the Centers for Disease Control and Prevention (CDC). In this notebook we answer 3 Research questions<br>
 **Skills:** cleaning, data analysis, exploratory data analysis, data visualization.<br>
-**Technology:** Excel<br>
+**Technology:** R<br>
 **Results:** Answers to Research questions<br>
 
