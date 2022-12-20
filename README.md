@@ -12,7 +12,7 @@ This repository is created to show skills, share projects and track my progress 
 - [Portfolio Projects](#portfolio-projects)
 	+ [Bike share company analysis](#bike-share-company-analysis)
 	+ [Seed Packaging Plant Data Analysis](#seed-packaging-plant-data-analysis)
-	+ [BRFSS 2013 data](#brfss-2013-data-analysis-:-3-research-questions)
+	+ [BRFSS 2013 data](#brfss-2013-data-analysis)
 	+ [Tableau visualisation](#tableau-viz)
 
 	
