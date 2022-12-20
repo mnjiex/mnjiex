@@ -34,7 +34,7 @@ Here projects are listed, briefly described along with the technology used
 **Results:** Recommendations geared towards improving data collection for factory<br>
 
 ## BRFSS 2013 Data Analysis: 3 Research questions
-**Code:** [`brfss`]https://www.kaggle.com/code/muhammednjie/brfss-data-analysis-3-questions<br>
+**Code:** [`brfss`](https://www.kaggle.com/code/muhammednjie/brfss-data-analysis-3-questions)<br>
 **Description:** The Behavioral Risk Factor Surveillance System (BRFSS) is a collaborative project between all of the states in
 the United States (US) and participating US territories and the Centers for Disease Control and Prevention (CDC). In this notebook we answer 3 Research questions<br>
 **Skills:** cleaning, data analysis, exploratory data analysis, data visualization.<br>
@@ -43,8 +43,7 @@ the United States (US) and participating US territories and the Centers for Dise
 
 ## Tableau Viz
 ## Africa health indicators: 
-**ViZ**['viz']https://public.tableau.com/app/profile/muhammed5174/viz/Africadevelopmentindicators-health/DashboardHealthindicators<br>
+**ViZ**['viz'](https://public.tableau.com/app/profile/muhammed5174/viz/Africadevelopmentindicators-health/DashboardHealthindicators)<br>
 **Description:** Visualization of health indicators for countries in Africa<br>
-**Skills:** cleaning, data analysis, exploratory data analysis, data visualization.<br>
 **Technology:** Tableau<br>
 
