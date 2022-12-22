@@ -47,3 +47,10 @@ the United States (US) and participating US territories and the Centers for Dise
 **Skills:** cleaning, data analysis, exploratory data analysis, data visualization.<br>
 **Technology:** Tableau<br>
 
+## Customer Segment Analysis:
+**Viz** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/CustomerSegmentAnalysis_16716861586920/Customersegment))<br>)<br>
+**Description:** Visualization on customer segment sales data analysis<br>
+**skills:** data visualization
+**Technology:** Tableua<br>
+
+
