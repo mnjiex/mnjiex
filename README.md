@@ -48,7 +48,7 @@ the United States (US) and participating US territories and the Centers for Dise
 **Technology:** Tableau<br>
 
 ## Customer Segment Analysis:
-**Viz** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/CustomerSegmentAnalysis_16716861586920/Customersegment)<br>)
+**Viz** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/CustomerSegmentAnalysis_16716861586920/Customersegment)<br>
 **Description:** Visualization on customer segment sales data analysis<br>
 **skills:** data visualization<br>
 **Technology:** Tableua<br>
