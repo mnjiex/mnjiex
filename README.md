@@ -40,6 +40,18 @@ the United States (US) and participating US territories and the Centers for Dise
 **Technology:** R<br>
 **Results:** Answers to 3 Research questions<br>
 
+## Customer Segment Analysis:
+**Viz** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/CustomerSegmentAnalysis_16716861586920/Customersegment)<br>
+**Description:** Visualization on customer segment sales data analysis<br>
+**skills:** data visualization<br>
+**Technology:** Tableua<br>
+
+## Regional sales vs Profits dashboard:
+**Viz** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/RegionalSalesViz/Viz1)<br>
+**Description:** Visualization aimed at idenifying bottom 3 low performing products using pre-attentive attribute and gestalt principles<br>
+**skills:** data visualization<br>
+**Technology:** Tableua<br>
+
 ## Tableau Viz
 ## Africa health indicators: 
 **ViZ** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/Africadevelopmentindicators-health/DashboardHealthindicators)<br>
@@ -47,10 +59,6 @@ the United States (US) and participating US territories and the Centers for Dise
 **Skills:** cleaning, data analysis, exploratory data analysis, data visualization.<br>
 **Technology:** Tableau<br>
 
-## Customer Segment Analysis:
-**Viz** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/CustomerSegmentAnalysis_16716861586920/Customersegment)<br>
-**Description:** Visualization on customer segment sales data analysis<br>
-**skills:** data visualization<br>
-**Technology:** Tableua<br>
+
 
 
