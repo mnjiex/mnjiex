@@ -38,7 +38,9 @@ Here projects are listed, briefly described along with the technology used
 the United States (US) and participating US territories and the Centers for Disease Control and Prevention (CDC). In this notebook we answer 3 Research questions<br>
 **Skills:** cleaning, data analysis, exploratory data analysis, data visualization.<br>
 **Technology:** R<br>
-**Results:** Answers to 3 Research questions<br>
+**Results:** Answers to 3 Research questions<br><br>
+
+## Tableau Viz
 
 ## Customer Segment Analysis:
 **Viz** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/CustomerSegmentAnalysis_16716861586920/Customersegment)<br>
@@ -52,7 +54,7 @@ the United States (US) and participating US territories and the Centers for Dise
 **skills:** data visualization<br>
 **Technology:** Tableua<br>
 
-## Tableau Viz
+
 ## Africa health indicators: 
 **ViZ** [`viz`](https://public.tableau.com/app/profile/muhammed5174/viz/Africadevelopmentindicators-health/DashboardHealthindicators)<br>
 **Description:** Visualization of health indicators for countries in Africa<br>
